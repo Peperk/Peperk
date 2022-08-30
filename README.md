@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Keren
 - 👀 I’m interested in creative coding
 - 🌱 I’m currently learning Python & JavaScript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on antyhing beginner friendly
 - 📫 How to reach me : IG : peperklipp; 
 
 <!---
